@@ -4,7 +4,7 @@
 
 - To create a virtual Python environment using `conda`, use either of the following: 
 
-    - Use the `xgb_env.yml` file to create a `conda` environment called `xgb` using `conda env create -f environment.yml -n xgb`.
+    - Use the `xgb_env.yml` file to create a `conda` environment called `xgb` using `conda env create -f xgb_env.yml -n xgb`.
 
     - Alternatively, use the following `conda` commands to create the `xgb` environment manually:
         - `conda create --name xgb python=3.9`
